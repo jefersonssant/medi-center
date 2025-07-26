@@ -2,7 +2,7 @@
 ## Descrição
 O site foi desenvolvido com foco apenas no design e, principalmente, para a prática dos posicionamentos com o CSS, com as propriedades flex-box.
 ## Link do site
-<a href="https://jefersonssant.github.io/media-center/" target="_blank">Clique aqui e visualize o site</a>
+<a href="https://jefersonssant.github.io/medi-center/" target="_blank">Clique aqui e visualize o site</a>
 ## Imagem
 <img width="1920" height="2395" alt="screencapture-jefersonssant-github-io-media-center-2025-07-25-21_40_52" src="https://github.com/user-attachments/assets/69767192-d9a5-4a75-a1ae-47574f7510e6" />
 
